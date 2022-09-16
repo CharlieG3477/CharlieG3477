@@ -9,4 +9,6 @@ Hi my name is Charles Germany,
 - ⚡ Fun fact: Three of my favorite things are milk, cheesecake, and software engineering!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CharlieG3477)
-[How to code](https://www.bing.com/videos/search?q=rick+roll+video&docid=608044572191365496&mid=62278A72C3991331AA3A62278A72C3991331AA3A&view=detail&FORM=VIRE)
+
+
+[How I learn to code!](https://www.bing.com/videos/search?q=rick+roll+video&docid=608044572191365496&mid=62278A72C3991331AA3A62278A72C3991331AA3A&view=detail&FORM=VIRE)
